@@ -1,11 +1,15 @@
-# Post-Settlement Repair Coordination — A+C landing page
+# Repair Coordination — V4
 
-Premium static landing page inspired by the approved A + C visual direction:
-- premium Australian property-service feel
-- warm editorial typography
-- deep green and warm neutral palette
-- concierge-like simplicity
-- large, restrained CTAs
+A deliberately art-directed static landing page for the post-settlement repair coordination validation test.
 
-Replace the Tally placeholder in `index.html` before launch.
-Replace the CSS-generated image placeholders with final approved photography when ready.
+Design principles:
+- editorial/property-service rather than SaaS
+- larger display typography
+- consistent vertical rhythm
+- custom SVG line icons
+- restrained warm neutral / deep green palette
+- no generic emoji/unicode icons
+- no horizontal overflow
+- all primary CTAs route to the Tally placeholder
+
+Before launch, replace `https://tally.so/r/REPLACE-ME` in `index.html` with the actual Tally form URL.
