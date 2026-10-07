@@ -1,15 +1,11 @@
-# Repair Coordination — V4
+# Repair Coordination — Visual Repair Build
 
-A deliberately art-directed static landing page for the post-settlement repair coordination validation test.
+This build restores the layout around the supplied three-concept reference, using Concept A as the primary direction.
 
-Design principles:
-- editorial/property-service rather than SaaS
-- larger display typography
-- consistent vertical rhythm
-- custom SVG line icons
-- restrained warm neutral / deep green palette
-- no generic emoji/unicode icons
-- no horizontal overflow
-- all primary CTAs route to the Tally placeholder
-
-Before launch, replace `https://tally.so/r/REPLACE-ME` in `index.html` with the actual Tally form URL.
+- editorial/property-service aesthetic
+- warm neutral / deep green palette
+- controlled max-width containers
+- stable desktop grid and mobile breakpoints
+- local reference imagery extracted from the supplied mockup for validation
+- no SEO additions yet
+- replace the Tally placeholder in `index.html` before launch
