@@ -1,8 +1,11 @@
-# Post-Settlement Repair Coordination — premium validation landing page
+# Post-Settlement Repair Coordination — A+C landing page
 
-Static HTML/CSS landing page for GitHub Pages. No framework or paid hosting required.
+Premium static landing page inspired by the approved A + C visual direction:
+- premium Australian property-service feel
+- warm editorial typography
+- deep green and warm neutral palette
+- concierge-like simplicity
+- large, restrained CTAs
 
-## Before launch
-1. Replace the Tally placeholder URL in `index.html`.
-2. Replace the two image placeholders with final approved photography.
-3. Review service/legal wording before commercial launch.
+Replace the Tally placeholder in `index.html` before launch.
+Replace the CSS-generated image placeholders with final approved photography when ready.
